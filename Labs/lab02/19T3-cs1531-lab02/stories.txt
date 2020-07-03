@@ -1,0 +1,59 @@
+///////////////////////////////////////////////////////////////////////
+///                             User Stories                        ///
+///////////////////////////////////////////////////////////////////////
+
+
+As a student, I want to be able to search for courses, so that I can 
+add courses that  am enrolled in.
+
+As a student, I want to be able to save my timetable as an image, so 
+that I can refer to it outside of the app.
+
+As a student, I want to be able to view the different possible time 
+slots for each course, so that I can change it in accordance to my 
+personal calendar.
+
+As a student, I want to be able to add a custom event to my timetable, 
+so that I can factor for events outside of uni.
+
+As a student, I want to be able to specify the name, duration, and 
+time slots of my custom events so I can accurately plan my week.
+
+As a student, I want to be able to specify if I am in the online 
+lecture stream so I don?t have to choose a timeslot of lectures.
+
+As a student, I want to be able to drag and drop my events on their 
+valid time slots so I can easily plan my schedule.
+
+As a student, I want to be able to view my weekly schedule so I can 
+have an overview of my week.
+
+As a student, I want to be able to delete courses or events from my 
+schedule in case I make a mistake.
+
+As a student, I want to be alerted if my events clash so I can plan 
+accordingly. 
+
+As a student, I want to be able to share my timetable, so that my 
+friends know when my classes are to make organising plans easier.
+
+As a student, I want to colour code my classes, so that I can easily 
+distinguish between them.
+
+As a student, I want to be able to toggle the details of the courses 
+on the schedule (location, time period, number of enrollments, and 
+available classes) so I can know more information about the course.
+
+As a religious student, I want to plan all campus bible study activities 
+along with my courses so I can keep up with my faith.
+
+As a student, I want to be able to reset my schedule so I can quickly 
+get started again.
+
+As a user, I want to be able to contact the creators of the app.
+
+As a user, I want to be able to have a quick summary of the app?s 
+features so I understand what to use it for.
+
+As a user, I want to be able to report a bug I've discovered so that 
+it can be resolved quickly.
